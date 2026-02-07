@@ -76,11 +76,11 @@ To achieve a modern look, **Microsoft PowerPoint** was used as a design tool to:
 To provide a clear and interactive user experience, I designed the dashboard layout in **PowerPoint** and integrated the data visuals in **Excel**. 
 
 ### Executive Overview
-![Executive Dashboard](Images/overview.jpg)
+![Executive Dashboard](Images/overview.png)
 *Figure 1: High-level KPIs and Sales Trends.*
 
 ### Regional & Supplier Analysis
-![Regional Dashboard](Images/regional.jpg)
+![Regional Dashboard](Images/regional.png)
 *Figure 2: Detailed view of supplier concentration and geographic performance.*
 
 ---
@@ -101,8 +101,31 @@ To provide a clear and interactive user experience, I designed the dashboard lay
 
 ---
 
+## 📂 Project Structure
+
+To maintain clarity and organization, the repository is structured as follows:
+
+* **[Data/](Data/)**: Contains the raw .
+* **[Images/](Images/)**: Stores all visual assets, including data models and dashboard screenshots.
+* **Analysis_Dashboard.xlsx**: The core Excel file containing Power Query, Power Pivot, and the final interactive dashboard.
+* **Dashboard_Design.pptx**: The PowerPoint source file used for the UI/UX design and dashboard layout.
+
+---
+
+## 📂 Project Structure
+
+To maintain clarity and organization, the repository is structured as follows:
+
+* **[Data/](Data/)**: Contains the raw and cleaned datasets used for the analysis.
+* **[Images/](Images/)**: Stores all visual assets, including data models and dashboard screenshots.
+* **Analysis_Dashboard.xlsx**: The core Excel file containing Power Query, Power Pivot, and the final interactive dashboard.
+* **Dashboard_Design.pptx**: The PowerPoint source file used for the UI/UX design and dashboard layout.
+
+---
+
 ## 👨‍💻 Connect with Me
 
 I’m a Data Analyst passionate about turning complex data into visual stories. Feel free to reach out for collaboration or questions:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-hendawy-530124231)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-00AFEF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/samerhendawy)
