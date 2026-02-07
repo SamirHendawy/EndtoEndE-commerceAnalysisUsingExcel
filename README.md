@@ -86,11 +86,11 @@ To provide a clear and interactive user experience, I designed the dashboard lay
 ---
 
 ## 💡 Strategic Recommendations
-### 1. **Reduce Supplier Risk**: Diversify the supplier portfolio to mitigate risks associated with the top 3 suppliers.
+*Based on the insights derived from the dashboards:*
 
-### 2. **Regional Optimization**: Dhaka is the primary revenue engine; investigate regional strategies to boost Chittagong and other districts.
-
-### 3. **Loyalty Programs**: Leverage the 90% card-payment rate to launch targeted digital rewards or cashback programs.
+1. **Reduce Supplier Risk**: Diversify the supplier portfolio to mitigate risks associated with the top 3 suppliers who control over a third of the revenue.
+2. **Regional Optimization**: Since **Dhaka** is the primary revenue engine, investigate regional strategies to boost performance in Sylhet, Barisal, and other districts.
+3. **Loyalty Programs**: Leverage the **90% card-payment rate** to launch targeted digital rewards, exclusive bank partnerships, or cashback programs.
 
 ---
 
